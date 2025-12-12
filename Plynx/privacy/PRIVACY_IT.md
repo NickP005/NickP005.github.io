@@ -243,7 +243,22 @@ Puoi richiedere una copia dei tuoi dati personali.
 Puoi aggiornare o correggere dati inaccurati.
 
 ### 7.3 Cancellazione
-Puoi richiedere la cancellazione del tuo account e dati.
+Puoi eliminare il tuo account e tutti i dati associati direttamente dall'app:
+1. Apri l'app e vai su **Impostazioni**
+2. Tocca **Elimina Account**
+3. Inserisci la tua password per confermare
+4. Il tuo account verrà eliminato immediatamente
+
+**Cosa viene eliminato:**
+- Il tuo profilo utente e email
+- Tutte le dashboard e configurazioni dei widget
+- Tutti i token dei dispositivi e dati di autenticazione
+- Tutti i dati storici (SuperChart, report)
+- Token delle notifiche push
+
+**Importante:** Dopo l'eliminazione, i tuoi dati vengono spostati in una posizione di backup sicura e conservati per **5 giorni** a scopo di recupero amministrativo (es. in caso di eliminazione accidentale o compromissione dell'account). Dopo 5 giorni, tutti i dati vengono eliminati in modo permanente e irreversibile.
+
+Puoi anche richiedere la cancellazione contattandoci a: niccolo.pagano@studbocconi.it
 
 ### 7.4 Portabilità dei Dati
 Puoi richiedere i tuoi dati in un formato portatile (esportazione JSON).

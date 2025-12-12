@@ -243,22 +243,7 @@ You can request a copy of your personal data.
 You can update or correct inaccurate data.
 
 ### 7.3 Deletion
-You can delete your account and all associated data directly from the app:
-1. Open the app and go to **Settings**
-2. Tap **Delete Account**
-3. Enter your password to confirm
-4. Your account will be immediately deleted
-
-**What gets deleted:**
-- Your user profile and email
-- All dashboards and widget configurations
-- All device tokens and authentication data
-- All historical data (SuperChart, reports)
-- Push notification tokens
-
-**Important:** After deletion, your data is moved to a secure backup location and retained for **5 days** for administrative recovery purposes (e.g., in case of accidental deletion or account compromise). After 5 days, all data is permanently and irreversibly deleted.
-
-You can also request deletion by contacting us at: niccolo.pagano@studbocconi.it
+You can request deletion of your account and data.
 
 ### 7.4 Data Portability
 You can request your data in a portable format (JSON export).
